@@ -1,0 +1,21 @@
+#update {
+    border-radius: 5px;
+    background-color:rgb(47, 240, 8);
+    font-weight: bolder;
+    width: 100px;
+}
+
+#reset {
+    border-radius: 5px;
+    background-color:rgb(250, 54, 14);
+    font-weight: bolder;
+    width: 100px;
+}
+
+#prof {
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    background-color: lightblue;
+    
+}
